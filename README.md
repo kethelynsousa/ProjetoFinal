@@ -1,7 +1,7 @@
 <h1> projeto escola </h1>
  <h2> Sistema MultiStack </h2>
  <h3> Kethelyn sousa </h3>
- <4> Tecnologia Imersivas </h4>
+ <h4> Tecnologia Imersivas </h4>
  <h5> FrontEnd </H5> 
  <h6> Backend </h6>
  
@@ -26,7 +26,7 @@
 6.*Orientaçãoa objetos aplicada ao JavaScript*
 
 
-7.Frameworks JavaScript : Angulsr , react e Vujs
+7.Frameworks JavaScript : Angular , react e Vujs
  
  
  8.Linguagem C#:Basico,Intermediario e Avançado
